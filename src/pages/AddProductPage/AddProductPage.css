@@ -1,0 +1,18 @@
+.add-product-form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.add-product-form > input {
+  margin: 10px;
+  padding: 10px;
+}
+
+.add-btn {
+  width: 50px;
+  padding: 5px 10px;
+  border: none;
+  border-radius: 5px;
+}

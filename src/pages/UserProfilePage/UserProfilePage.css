@@ -1,0 +1,32 @@
+.user-profile-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 70vh;
+}
+
+.user-profile {
+  width: fit-content;
+}
+
+.data-list {
+  display: flex;
+  flex-direction: column;
+  text-align: start;
+}
+
+.user-paragraph {
+  margin: 10px;
+}
+
+.user-col-1 {
+  margin: 10px;
+  padding: 10px;
+  font-weight: bold;
+  font-size: 25px;
+}
+.user-col-2 {
+  margin: 10px;
+  padding: 10px;
+  font-size: 25px;
+}

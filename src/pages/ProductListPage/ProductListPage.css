@@ -1,0 +1,14 @@
+.product-list-page {
+  text-align: center;
+}
+.all-products {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 10px;
+}
+.product-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  padding: 20px;
+  font-size: larger;
+  text-align: center;
+}
